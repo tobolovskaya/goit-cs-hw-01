@@ -6,5 +6,5 @@ Develop an assembler program that calculates the result of the expression 'varia
 
 Result of running the program in DOSBox:
 
-![Program Output](./img2.png)
+![Program Output](.//task-1/img2.png)
 
